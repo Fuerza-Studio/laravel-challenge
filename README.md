@@ -72,7 +72,7 @@ Para que possamos validar o seu teste vamos precisar que faça uma documentaçã
 - Crie um novo repositório e defina-o como privado
 - Clone este repositório
 - Adicione o seu repositório privado como um _remote_:
-  `git remote add upstream git@github.com:YOUR_USERNAME/backend-wordpress-challenge.git`
+  `git remote add upstream git@github.com:[YOUR_USERNAME]/[YOUR_PROJECT_NAME].git`
 - Crie um novo branch
   `git checkout -b challenge`
 - Após finalizar seu código, faça o _push_ para o seu repositório
